@@ -1,0 +1,26 @@
+_repo: Roberts-Chester-Guide-1858_62534
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roberts, Hugh
+    gutenberg_agent_id: '51993'
+    url: http://www.gutenberg.org/2009/agents/51993
+  editor:
+    agent_name: Hicklin, John
+    gutenberg_agent_id: '9534'
+    url: http://www.gutenberg.org/2009/agents/9534
+description: ''
+gutenberg_issued: '2020-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62534'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Chester (England) -- Guidebooks'
+- GITenberg
+title: Roberts' Chester Guide [1858]
+url: http://www.gutenberg.org/ebooks/62534
